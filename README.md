@@ -1,15 +1,9 @@
-# Production-Ready WordPress Hosting on AWS Lightsail
-
 ![AWS](https://img.shields.io/badge/AWS-Lightsail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-6.x-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Apache](https://img.shields.io/badge/Web_Server-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/Database-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-
-# aws-wordpress-lightsail
-Deploy a production-ready WordPress blog on AWS Lightsail with static IP, HTTPS, snapshots, security hardening, and operational best practices.
 
 # Production-Ready WordPress Hosting on AWS Lightsail
 
