@@ -7,14 +7,6 @@
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/Database-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-![Architecture](https://img.shields.io/badge/Architecture-Production_Ready-success?style=for-the-badge)
-![Documentation](https://img.shields.io/badge/Documentation-Complete-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-![Project](https://img.shields.io/badge/AWS_80_Projects-2%2F80-orange?style=for-the-badge)
-
-![License](https://img.shields.io/github/license/simeonprimordial/aws-wordpress-lightsail?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/simeonprimordial/aws-wordpress-lightsail?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/simeonprimordial/aws-wordpress-lightsail?style=for-the-badge)
 
 # aws-wordpress-lightsail
 Deploy a production-ready WordPress blog on AWS Lightsail with static IP, HTTPS, snapshots, security hardening, and operational best practices.
